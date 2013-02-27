@@ -1,0 +1,4 @@
+rvm use default@vivr --create
+
+# put the gem bin directory in our path
+export PATH=./bin:$PATH

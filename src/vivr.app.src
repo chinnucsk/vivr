@@ -1,0 +1,18 @@
+%%-*- mode: erlang -*-
+{application, vivr,
+ [
+  {description, "vivr"},
+  {vsn, "1"},
+  {modules, []},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib,
+                  inets,
+                  crypto,
+                  mochiweb,
+                  webmachine
+                 ]},
+  {mod, { vivr_app, []}},
+  {env, []}
+ ]}.

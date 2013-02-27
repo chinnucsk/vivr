@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erlectricity (1.1.1)
+    faker (1.1.2)
+      i18n (~> 0.5)
+    i18n (0.6.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erlectricity
+  faker
