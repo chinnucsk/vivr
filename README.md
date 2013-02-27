@@ -24,6 +24,10 @@ First, make sure you have both Erlang and Ruby setup on your machine
 and make sure both are in your path. Once you have those prerequsites
 met do this:
 
+Use Rebar to get the project dependencies
+
+    ./rebar get-deps compile
+
 Build the Erlang project with make
 
     make
