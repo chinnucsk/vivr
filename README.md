@@ -144,19 +144,24 @@ At this point everything should be good-to-go. Navigate the the
 * http://www.ruby-lang.org/en/
 * https://github.com/basho/webmachine/wiki
 
+
 * http://zianet.dk/blog/2011/12/16/running-erlang-webmachine-on-heroku/
+
 
 * https://github.com/basho/webmachine/wiki
 * https://github.com/mojombo/erlectricity
+
 
 * https://github.com/ddollar/heroku-buildpack-multi
 * https://github.com/heroku/heroku-buildpack-erlang
 * https://github.com/heroku/heroku-buildpack-ruby
 
+
 * https://devcenter.heroku.com/articles/creating-apps
 * https://devcenter.heroku.com/articles/quickstart
 
-*  https://devcenter.heroku.com/articles/buildpacks
+
+* https://devcenter.heroku.com/articles/buildpacks
 * https://bugsplat.info/2012-11-05-introduction-to-heroku-buildpacks.html
 
 ## Copyright
