@@ -24,20 +24,20 @@ First, make sure you have both Erlang and Ruby setup on your machine
 and make sure both are in your path. Once you have those prerequsites
 met do this:
 
-* Build the Erlang project with make
+Build the Erlang project with make
 
     make
 
-* Install [Bundler](http://gembundler.com/) to manage the Ruby gem
+Install [Bundler](http://gembundler.com/) to manage the Ruby gem
 dependencies
 
     gem install bundler
 
-* Then install the required gems
+Then install the required gems
 
     bundle install
 
-* Finally, run the app
+Finally, run the app
 
     foreman start
 
