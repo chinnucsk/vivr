@@ -42,7 +42,7 @@ Finally, run the app
     foreman start
 
 Depending on you machine's setup the app will usually run on port
-500. To verify check the console output for somthing like this
+5000. To verify check the console output for somthing like this
 
     {webmachine_mochiweb,start,
       [[{ip,"0.0.0.0"},
