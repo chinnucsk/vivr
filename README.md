@@ -24,6 +24,14 @@ First, make sure you have both Erlang and Ruby setup on your machine
 and make sure both are in your path. Once you have those prerequsites
 met do this:
 
+Install [Bundler](http://gembundler.com/) to manage the Ruby gem dependencies
+
+    gem install bundler
+
+Then install the required gems
+
+    bundle install
+
 Use Rebar to get the project dependencies
 
     ./rebar get-deps compile
@@ -32,20 +40,15 @@ Build the Erlang project with make
 
     make
 
-Install [Bundler](http://gembundler.com/) to manage the Ruby gem
-dependencies
+Or, if you prefer (I do) use [Rake](http://rake.rubyforge.org/)
 
-    gem install bundler
+    rake
 
-Then install the required gems
-
-    bundle install
-
-Finally, run the app
+Finally, run the app using [Foreman](https://github.com/ddollar/foreman)
 
     foreman start
 
-Depending on you machine's setup the app will usually run on port
+Depending on you machine's setup the app will run on port
 5000. To verify check the console output for somthing like this
 
     {webmachine_mochiweb,start,
