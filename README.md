@@ -147,29 +147,54 @@ At this point everything should be good-to-go. Navigate the the
 
 ## Useful links
 
+Language info:
+
 * http://www.erlang.org/
 * http://www.ruby-lang.org/en/
 * https://github.com/basho/webmachine/wiki
 
+Webmachine
 
 * http://zianet.dk/blog/2011/12/16/running-erlang-webmachine-on-heroku/
-
-
 * https://github.com/basho/webmachine/wiki
+
+Erlectricity
+
 * https://github.com/mojombo/erlectricity
 
+Heroku Buildpacks
 
 * https://github.com/ddollar/heroku-buildpack-multi
 * https://github.com/heroku/heroku-buildpack-erlang
 * https://github.com/heroku/heroku-buildpack-ruby
+* https://devcenter.heroku.com/articles/buildpacks
+* https://bugsplat.info/2012-11-05-introduction-to-heroku-buildpacks.html
 
+Other Heroku Stuff
 
 * https://devcenter.heroku.com/articles/creating-apps
 * https://devcenter.heroku.com/articles/quickstart
 
+Erlang and Ruby at Rackspace
 
-* https://devcenter.heroku.com/articles/buildpacks
-* https://bugsplat.info/2012-11-05-introduction-to-heroku-buildpacks.html
+* http://www.rackspace.com/blog/how-rackspace-is-using-erlang/
+* http://www.infoq.com/presentations/Erlang-Ruby-Rackspace
+* http://www.erlang-factory.com/upload/presentations/526/PolyglotParallelismEF2012.pdf
+
+Other GitHub Ruby/Erlang Tools
+
+* https://github.com/blog/531-introducing-bert-and-bert-rpc
+* http://bert-rpc.org/
+* https://github.com/mojombo/bertrpc
+* https://github.com/mojombo/bert
+* https://github.com/mojombo/ernie/
+
+Other Stuff
+
+* http://www.slideshare.net/wooga/combining-the-strengths-or-erlang-and-ruby
+* http://www.igvita.com/2009/03/20/ruby-polyglot-talking-with-erlang/
+* http://vimeo.com/43981884
+* http://elixir-lang.org/
 
 ## Copyright
 
