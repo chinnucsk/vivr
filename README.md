@@ -198,7 +198,7 @@ Other Stuff
 
 ## Copyright
 
-*Ratistics* is Copyright &copy; 2013 [Jerry D'Antonio](https://twitter.com/jerrydantonio).
+This software is Copyright &copy; 2013 [Jerry D'Antonio](https://twitter.com/jerrydantonio).
 It is free software and may be redistributed under the terms specified in
 the LICENSE file.
 
