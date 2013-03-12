@@ -7,6 +7,8 @@ via [Erlectricity](https://github.com/mojombo/erlectricity) for the logic.
 It can run locally using [Foreman](https://github.com/ddollar/foreman)
 or be deployed to [Heroku](http://www.heroku.com/).
 
+-[Jerry](https://twitter.com/jerrydantonio)
+
 ## How it works
 
 The main application defines two routes. The root route is a simple
@@ -198,7 +200,7 @@ Other Stuff
 
 ## Copyright
 
-This software is Copyright &copy; 2013 [Jerry D'Antonio](https://twitter.com/jerrydantonio).
+This software is Copyright &copy; 2013 [Virtual Hold Technology, LLC](http://www.virtualhold.com/).
 It is free software and may be redistributed under the terms specified in
 the LICENSE file.
 
