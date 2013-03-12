@@ -1,5 +1,0 @@
-*.dump
-deps/*
-ebin/*
-.eunit/*
-.rvmrc
